@@ -1,11 +1,15 @@
 export default {
-  index: "Introduction",
+  // index: {
+  //   title: "Index",
+  //   display: "hidden",
+  // },
+  // policy: {
+  //   title: "Site Policy",
+  //   type: "page",
+  // },
+  index: "Home Base",
   terms: "Terms",
-  legal: "Privacy Policies",
-  onboarding: {
-    title: "Onboarding",
-    type: "page",
-  },
+  privacy: "Privacy Policies",
   accounting: {
     title: "Accounting",
     type: "page",
@@ -14,10 +18,14 @@ export default {
     title: "Bookkeeping",
     type: "page",
   },
-  contact: {
-    title: "Contact Us ↗",
+  onboarding: {
+    title: "Onboarding",
     type: "page",
-    href: "https://us8.list-manage.com/contact-form?u=ce56e6cfcae4ae9b24870c921&form_id=217efc6d4d4bc810285c581c94414e7f",
+  },
+  contact: {
+    title: "Client Center",
+    type: "page",
+    href: "https://www.bermudezassociates.com/client-center",
     newWindow: true,
   },
 };

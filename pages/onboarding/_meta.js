@@ -1,4 +1,7 @@
 export default {
-    intro: "Onboarding Introduction",
+    intro: "Introduction",
+    '---': {
+        type: 'separator'
+      },
     mars: "Mars Accounting",
 }

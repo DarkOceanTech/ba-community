@@ -43,7 +43,7 @@ export default {
     </>
   ),
   project: {
-    link: "https://github.com/DarkOceanTech/",
+    link: "https://github.com/DarkOceanTech/ba-community",
   },
   footer: {
     content: (

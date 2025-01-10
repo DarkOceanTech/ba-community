@@ -1,4 +1,4 @@
 export default {
-    index: "General Privacy Policy",
+    books: "Bookkeeping",
 
 }
